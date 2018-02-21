@@ -4,8 +4,6 @@
 #include "exceptions.hpp"
 
 #include <cstddef>
-#include <crtdbg.h>
-#include <cassert>
 
 namespace sjtu { 
 
